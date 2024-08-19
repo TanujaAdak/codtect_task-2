@@ -41,3 +41,5 @@ This Weather Forecast Web Application provides real-time weather information for
 1. Clone the repository.
 2. Open `index.html` in a web browser.
 
+##Output
+<img width="1710" alt="Screenshot-task2" src="https://github.com/user-attachments/assets/bd35a3bc-53f3-43e8-91dc-2d98a8b30d32">
